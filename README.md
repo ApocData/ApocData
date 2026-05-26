@@ -1,5 +1,6 @@
 # ApocData · A-Share AI Data Skill
 
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/apocdata-apocdata-skill)
 > Zero-auth, zero-dependency. Use `curl` to call 45+ A-share data endpoints
 > (quotes / financials / fund flows / factors / announcements / macro).
 > Compatible with Claude, ChatGPT, Qwen, Kimi, DeepSeek and any AI agent
