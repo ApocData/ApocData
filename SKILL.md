@@ -7,7 +7,7 @@
 ```bash
 mkdir -p ~/.claude/skills/ApocData
 curl -o ~/.claude/skills/ApocData/SKILL.md \
-  https://raw.githubusercontent.com/Gavin-2075/ApocData/ApocData/main/SKILL.md
+  https://raw.githubusercontent.com/ApocData/ApocData/main/SKILL.md
 ```
 
 重启 Claude Code 后自动生效。
