@@ -5,8 +5,8 @@
 ## 安装（两步，无需 pip）
 
 ```bash
-mkdir -p ~/.claude/skills/ApocData
-curl -o ~/.claude/skills/ApocData/SKILL.md \
+mkdir -p ~/.claude/skills/apocdata
+curl -o ~/.claude/skills/apocdata/SKILL.md \
   https://raw.githubusercontent.com/ApocData/ApocData/main/SKILL.md
 ```
 
